@@ -1,0 +1,7 @@
+Kiralık Ev  :  Semt:kazan - m2:150 - Odasayısı:4 - Kira:4500 - Depozito:600
+Satılık Ev  :  Semt:Kazan - m2:120 - Odasayısı:3 - Fiyat:540000 
+Kiralık Ev  :  Semt:Kazan - m2:120 - Odasayısı:5 - Kira:10000 - Depozito:1000
+Satılık Ev  :  Semt:Kazan - m2:150 - Odasayısı:4 - Fiyat:750000 
+Kiralık Ev  :  Semt:Kazan - m2:100 - Odasayısı:4 - Kira:5500 - Depozito:1000
+Kiralık Ev  :  Semt:Kazan - m2:100 - Odasayısı:3 - Kira:7500 - Depozito:1500
+Kiralık Ev  :  Semt:Kazan - m2:120 - Odasayısı:4 - Kira:7500 - Depozito:1000

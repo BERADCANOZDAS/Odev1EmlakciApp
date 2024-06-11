@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev1EmlakciApp", "Odev1EmlakciApp\Odev1EmlakciApp.csproj", "{7CA35D1D-A4A2-4E59-90C3-6585217522C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev1EmlakciLib", "Odev1EmlakciLib\Odev1EmlakciLib.csproj", "{901516FA-8BB8-4E0B-9121-C32562DC2294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA35D1D-A4A2-4E59-90C3-6585217522C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA35D1D-A4A2-4E59-90C3-6585217522C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA35D1D-A4A2-4E59-90C3-6585217522C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA35D1D-A4A2-4E59-90C3-6585217522C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901516FA-8BB8-4E0B-9121-C32562DC2294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901516FA-8BB8-4E0B-9121-C32562DC2294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901516FA-8BB8-4E0B-9121-C32562DC2294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901516FA-8BB8-4E0B-9121-C32562DC2294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44E584D-03AD-493A-9D3F-44365DD44017}
+	EndGlobalSection
+EndGlobal
